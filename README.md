@@ -1,4 +1,4 @@
-# Blinkit-Grocery-Sales-Analytics-Dashboard-Power-BI-
+
 # Blinkit Grocery Sales Analytics Dashboard (Power BI)
 
 ## 📊 Project Overview
